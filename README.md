@@ -6,4 +6,4 @@ It was a great cardio to learn Redux.
 
 Please write npm start to run the project
 
-[Live link]: https://redux-productcards-project.netlify.app/
+[Live link]: (https://redux-productcards-project.netlify.app/)
